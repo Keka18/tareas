@@ -3,7 +3,7 @@ function a(x, y) {
 }
 console.log(a(5, 5))
 
-
+//hola
 
 function a(x, y) {
     z = []
