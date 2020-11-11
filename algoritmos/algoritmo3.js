@@ -44,7 +44,7 @@ console.log(b);
 function a(x) {
     for (var i = 0; i < x.length; i++) {
         if (x[i] > 0) {
-            x[i] = “Coding”;
+            x[i] = "Coding";
         }
     }
     return x;
@@ -54,9 +54,9 @@ console.log(a([1, 2, 3, 4]))
 function a(x) {
     for (var i = 0; i < x.length; i++) {
         if (x[i] > 5) {
-            x[i] = “Coding”;
+            x[i] = "Coding";
         } else if (x[i] < 0) {
-            x[i] = “Dojo”;
+            x[i] = "Dojo";
         }
     }
     return x;
